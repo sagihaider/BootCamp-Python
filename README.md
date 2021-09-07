@@ -14,29 +14,4 @@
 
 This Introduction to Python course is for beginners. We aim to introduce fundamental programming concepts using [Google Colab](https://colab.research.google.com/). We will introduce topics: 
 
-| Data Science Bootcamp |
-|----------|:-------------:|------:|
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-<!-- * Variables 
-* Data types
-* Casting
-* String
-* Booleans
-* Operators
-* Lists
-* Tuples
-* Loops
-* Conditions
-* Functions, 
-* Introduction to NumPy -->
-
-
-
-This course is designed for those who are coming from a non-technical background and willing to learn Python to great in summer school.
-
-
+	![image](https://user-images.githubusercontent.com/17647329/132403369-1cc1c2f5-d43d-4f82-ba3e-61bfe3331b79.png)
